@@ -1,0 +1,3 @@
+{"_id":{"$oid":"598311d1b1a2b863749d4827"},"key":"dashboard","pkey":"root","icon":"area-chart","title":"仪表盘","link":"/dashboard"}
+{"_id":{"$oid":"5983137bb1a2b863749d48e2"},"key":"article","pkey":"root","icon":"book","title":"文章管理","link":"/article"}
+{"_id":{"$oid":"5983138eb1a2b863749d48ec"},"key":"comment","pkey":"root","icon":"message","title":"评论管理","link":"/comment"}

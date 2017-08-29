@@ -1,0 +1,9 @@
+{
+  "mongodb": {
+    "host": "localhost",
+    "port": "27017",
+    "database": "antd",
+    "username": "antd",
+    "password": "123456"
+  }
+}

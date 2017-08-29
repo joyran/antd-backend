@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #react-root, .ant-layout {
+  height: 100%;
+  width: 100%;
+}
+
+.ant-layout-header {
+  background: #fff;
+  height: 64px;
+  line-height: 64px;
+}
+
+.ant-layout-content {
+  margin: 24px 16px;
+  background: #fff;
+}
+
+.ant-layout-footer {
+  text-align: center;
+  background: #eee;
+  padding: 20px;
+}
+
+.ant-layout.ant-layout-has-sider {
+  position: fixed;
+}
+
+// 隐藏 table 表头的 y-scroll
+.ant-table-header {
+  margin-bottom: 0px !important;
+  overflow: auto !important;
+  padding-right: 18px;
+}

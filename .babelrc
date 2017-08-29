@@ -1,0 +1,14 @@
+{
+  "presets": ["stage-1", "react", "es2015"],
+  "plugins": [
+    ["transform-object-rest-spread", {"useBuiltIns": true}],
+    ["import", {
+      "libraryName": "antd",
+      "style": true
+    }],
+    ["transform-runtime", {
+      "polyfill": false,
+      "regenerator": true
+    }]
+  ]
+}

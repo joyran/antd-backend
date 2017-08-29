@@ -1,0 +1,5 @@
+node_modules
+server/static/dist/
+package-lock.json
+logs
+doc
